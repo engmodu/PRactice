@@ -1,12 +1,13 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 고길동
-- 리뷰어 : 강백호
+- 코더 : 박대건
+- 리뷰어 : 박대건
 
 
 # PRT(Peer Review Template)
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+<img width="157" height="120" alt="image" src="https://github.com/user-attachments/assets/c47dadd7-05d1-43e3-992b-a29387445d3d" />
 
         ![이미지 첨부](sample_image.png)
     
